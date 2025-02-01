@@ -1,10 +1,11 @@
 # American-Sign-Language-Detection
 ## American Sign Language Detection and Translation Sign to Text
+Small project I worked on with the intention of expanding it to a fully developed application.
 This project is based on the video by Computer Vision Engineer, I highly suggest everyone to watch the video at least once to get a simple and clear understanding of the code.
 
 [![Watch the video](https://img.youtube.com/vi/MJCSjXepaAM/maxresdefault.jpg)](https://youtu.be/MJCSjXepaAM)
 
-### ⚠️NOTE: Dataset has not been provided, instead two models and pickle files have been given, model.p and data.pickle have been trained by a small dataset of 30mb while the model2.p, data2.pickle and datanum.pickle have been trained using a large dataset of 1gb+
+### ⚠️NOTE: Two models and pickle files have been given, model.p and data.pickle have been trained by a small dataset of 30mb while the model2.p, data2.pickle and datanum.pickle have been trained using a large dataset of 1gb+
 
 <h1>⭐TLDR:</h1>
 
