@@ -5,7 +5,7 @@ This project is based on the video by Computer Vision Engineer, I highly suggest
 
 [![Watch the video](https://img.youtube.com/vi/MJCSjXepaAM/maxresdefault.jpg)](https://youtu.be/MJCSjXepaAM)
 
-### ⚠️NOTE: Two models and pickle files have been given, model.p and data.pickle have been trained by a small dataset of 30mb while the model2.p, data2.pickle and datanum.pickle have been trained using a large dataset of 1gb+
+### ⚠️NOTE: Two models and pickle files have been given, model.p and data.pickle have been trained by a small dataset of 30mb which includes numbers while the model2.p and data2.pickle have been trained using a large dataset of 1gb+ which includes special signs like delete, nothing and space.
 
 <h1>⭐TLDR:</h1>
 
