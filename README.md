@@ -1,5 +1,7 @@
 # American-Sign-Language-Detection
 ## American Sign Language Detection and Translation Sign to Text
+## Winner of Hack for Humanity | 2025 (https://devpost.com/software/american-sign-language-detection-8h3eo2?ref_content=my-projects-tab&ref_feature=my_projects)
+ https://devpost.com/software/american-sign-language-detection-8h3eo2?ref_content=my-projects-tab&ref_feature=my_projects
 Small project I worked on with the intention of expanding it to a fully developed application.
 This project is based on the video by Computer Vision Engineer, I highly suggest everyone to watch the video at least once to get a simple and clear understanding of the code.
 
